@@ -1,0 +1,10 @@
+git config --list
+git config --global user.email 
+git config --global user.name tanaypurwar
+git clone  https://github.com/tanaypurwar/rsamples
+git add
+git commit
+git status
+git remote -v
+git push
+git diff --cached
