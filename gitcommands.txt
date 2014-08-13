@@ -8,3 +8,5 @@ git status
 git remote -v
 git push
 git diff --cached
+git remote add upstream
+
